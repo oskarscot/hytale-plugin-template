@@ -1,4 +1,4 @@
-package scot.oskar.hytaletemplate.commnands;
+package scot.oskar.hytaletemplate.commands;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.command.system.CommandContext;
