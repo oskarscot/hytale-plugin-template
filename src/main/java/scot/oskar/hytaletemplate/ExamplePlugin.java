@@ -5,7 +5,7 @@ import com.hypixel.hytale.server.core.event.events.player.PlayerReadyEvent;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
 import javax.annotation.Nonnull;
-import scot.oskar.hytaletemplate.commnands.ExampleCommand;
+import scot.oskar.hytaletemplate.commands.ExampleCommand;
 import scot.oskar.hytaletemplate.event.ChatFormatter;
 import scot.oskar.hytaletemplate.event.ExampleEvent;
 
