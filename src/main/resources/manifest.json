@@ -1,0 +1,22 @@
+{
+  "Group": "oskar.scot",
+  "Name": "Example",
+  "Version": "1.0",
+  "Description": "Test example plugin",
+  "Authors": [
+    {
+      "Name": "oskarscot"
+    }
+  ],
+  "Website": "https://oskar.scot",
+  "ServerVersion": "*",
+  "Dependencies": {
+
+  },
+  "OptionalDependencies": {
+
+  },
+  "DisabledByDefault": false,
+  "Main": "scot.oskar.hytaletemplate.ExamplePlugin",
+  "IncludesAssetPack": true
+}
