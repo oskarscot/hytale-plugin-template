@@ -18,7 +18,7 @@ public class ChatFormatter {
       event.setContent("i stink");
     }
 
-    event.setFormatter((playerRed, message) ->
+    event.setFormatter((ignored, message) ->
         Message.join(
             Message.raw("[COOL] ").color(Color.RED),
             Message.raw(sender.getUsername()).color(Color.YELLOW),
